@@ -5,7 +5,7 @@ import joblib
 model = joblib.load('model.joblib')
 
 
-st.title('Price Prediction Model')
+st.title('Purchase Prediction Model')
 st.subheader('Enter customer information and submit for likelyhood to purchase')
 
 
